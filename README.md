@@ -1,6 +1,6 @@
 # metro-design-system-gulp
 
-## Installation Instructions
+## Installation
 
 Clone this repository.
 
@@ -23,6 +23,10 @@ npx gulp watch
 ```
 
 Now you're ready to get developing!
+
+## Contributing
+
+Coming soon...
 
 ## Fix
 
